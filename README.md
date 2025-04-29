@@ -33,3 +33,7 @@ Armazenamento com redundância de zona
 ### GZRS
 
 Armazenamento com redundância de zona e redundância geográfica
+
+## Create a Virtual Machine
+
+A VM condiz com o IaaS, ou seja, na criação de uma VM, apenas a infraestrutura é provida
