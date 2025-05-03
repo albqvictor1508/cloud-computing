@@ -165,3 +165,28 @@ Um conjunto de habilidades produz documentos enriquecidos
 
 - Consumido durante a indexação
 - Os dados serializados são passados ao mecanismo de pesquisa para indexação
+
+# Generative AI
+
+- Conceitos Básicos de IA generativa
+- Conceitos básicos do Serviço OpenAI do Azure
+- Explore a IA Generativa Responsável
+
+## What is AI?
+
+- Imita o comportamento humano usando aprendizado de máquina para interagir com o ambiente e executar tarefas sem instruções explicitas sobre oque gerar.
+
+## What is Generative AI?
+
+- Cria conteúdo original, como IA generativa que foi incorporada a aplicativos de chat, Os aplicativos de IA generativa usam entrada em linguagem natural e retornam apropriadas em uma variedade de formatos:
+
+
+# Planejar uma solução de IA generativa responsável
+
+- Identificar: Possíveis danos relevantes para a solução desejada.
+
+- Medidas: A presença desses danos nas saídas geradas pela solução 
+
+- Mitigar: Os danos de várias camadas em sua solução para minimizar o problema e impacto deles
+
+- Operar: A solução com responsabilidade definindo e seguindo um plano de implantação e de preparação operacional.
