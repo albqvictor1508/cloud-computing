@@ -117,3 +117,51 @@ Enunciado = toda a fala
 ## Reconhecimento e Síntese da fala
 
 Use os recursos de conversão de texto em fala do Serviço de Fala para gerar fala audível a partir de texto.
+
+# Knowledge Mining
+
+**As organizações possuem muito conteúdo**
+
+## What's this?
+
+- Os dados são bloqueados em documentos, PDFs, notas manuscritas, etc.
+- A mineração de conhecimento encontra insights - em escala
+
+A **Azure Cognitive Search** é a plataforma de mineração de conhecimento alimentada por AI do azure.
+
+## Solução de Pesquisa Cognitiva do Azure 
+
+***Ingestão de dados***
+
+- Azure Blob Storage Containers (reconhecer tudo que está dentro dele, videos, imagens, etc)
+- Azure Date Lake Storage Gen2
+- Azure Table Storage
+
+***Enriquecimento de Indice***
+
+- Pemite uma compreensão mais profunda
+- Visão, Processamento de Linguagem Natural, etc.
+- A indexação torna o conteúdo pesquisável
+
+***Explorar***
+
+- Pesquisa realizada em índices
+- Dentro dos aplicativos
+- Crie vizualizações de dados
+
+## Enriquecimento de AI
+
+***Pesquisa Cognitiva da Azure***
+
+- O enriquecimento de AI torna o conteúdo mais útil para fins de pesquisa
+
+O conteúdo enriquecido é criado por conjuntos de habilidades como:
+
+- Reconhecer entidades no texto
+- Traduzir texto
+- Avalie o sentimento
+
+Um conjunto de habilidades produz documentos enriquecidos 
+
+- Consumido durante a indexação
+- Os dados serializados são passados ao mecanismo de pesquisa para indexação
